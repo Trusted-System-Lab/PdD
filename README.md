@@ -1,16 +1,10 @@
-# PdD: The Ultimate Character-Level Perturbation Generator 🚀🔥
-
-Welcome to **PdD**, the game-changing **Character-Level Perturbation Generator**! If you've ever wanted to push the boundaries of text data augmentation, you've come to the right place! PdD isn't just another tool—it’s your **text manipulation playground**, where every character can be twisted, swapped, and transformed to your heart’s content.
+# PdD: The Ultimate Character-Level Perturbation Generator
 
 ![image-20240123120135583](README.assets/image-20240123120135583.png)
 
-## 🚀 Why PdD?
+Welcome to **PdD**, the game-changing **Character-Level Perturbation Generator**! If you've ever wanted to push the boundaries of text data augmentation, you've come to the right place! PdD isn't just another tool—it’s your **text manipulation playground**, where every character can be twisted, swapped, and transformed to your heart’s content.
 
-At its core, PdD is driven by three powerful principles: **P**robability distribution, **D**ensity, and **D**iversity. These metrics empower you to perturb text in ways that are dynamic, intelligent, and, most importantly, **impactful**! Whether you're enhancing neural network robustness, simulating real-world typos, or exploring creative text transformations, PdD gives you **full control** over your textual experiments.
-
-## 🔥 Backed by Research
-
-PdD is based on our paper “[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7).” Our work ensures that the perturbations aren’t just random noise but **structured, meaningful, and deeply insightful**. You can cite our work using the following BibTeX entry:
+This is an artifact for the paper “[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)” (ICFEM'23). Our work ensures that the perturbations aren’t just random noise but **structured, meaningful, and deeply insightful**. You can cite our work using the following BibTeX entry:
 
 ```bibtex
 @inproceedings{ma2023formalizing,
@@ -22,6 +16,10 @@ PdD is based on our paper “[Formalizing Robustness Against Character-Level Per
   organization={Springer}
 }
 ```
+
+## 🚀 Why PdD?
+
+At its core, PdD is driven by three powerful principles: **P**robability distribution, **D**ensity, and **D**iversity. These metrics empower you to perturb text in ways that are dynamic, intelligent, and, most importantly, **impactful**! Whether you're enhancing neural network robustness, simulating real-world typos, or exploring creative text transformations, PdD gives you **full control** over your textual experiments.
 
 ## 🛠️ How Does PdD Work?
 
